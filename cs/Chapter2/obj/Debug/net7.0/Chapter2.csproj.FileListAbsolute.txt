@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\cs\Chapter2\bin\Debug\net7.0\Chapter2.exe
+C:\Users\ASUS\Desktop\cs\Chapter2\bin\Debug\net7.0\Chapter2.deps.json
+C:\Users\ASUS\Desktop\cs\Chapter2\bin\Debug\net7.0\Chapter2.runtimeconfig.json
+C:\Users\ASUS\Desktop\cs\Chapter2\bin\Debug\net7.0\Chapter2.dll
+C:\Users\ASUS\Desktop\cs\Chapter2\bin\Debug\net7.0\Chapter2.pdb
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.dll
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\refint\Chapter2.dll
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.pdb
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\Chapter2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\cs\Chapter2\obj\Debug\net7.0\ref\Chapter2.dll
